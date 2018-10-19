@@ -1,4 +1,4 @@
-token= NTAxNDA4NjAyMDQ5NzQwODAy.DqvKMA.ZywP_kkmYCt96YoMN3dlJmUrbVI
+token=NTAxNDA4NjAyMDQ5NzQwODAy.DqvKMA.ZywP_kkmYCt96YoMN3dlJmUrbVI
 owner= 431403582277812235 
 prefix= $1play
 game= legenryplayer 
