@@ -1,6 +1,6 @@
 token= NTAyODQ0MDM4NzEwNDI3NjY4.DquBaw.GnnFAa8GNJuv_hjTG_ZmPIr1330
 owner= 431403582277812235 
 prefix= 3play
-game= !help
+game= #help
 stayinchannel=true
 songinstatus=false
