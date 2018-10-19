@@ -1,6 +1,6 @@
-token= NTAyODQ0MDM4NzEwNDI3NjY4.DquBaw.GnnFAa8GNJuv_hjTG_ZmPIr1330
+token= NTAxMzUyNjg4Nzc3Mjk3OTMx.DquKwQ.eTB0xYF_-z3O-noccJuFhNAY4RU
 owner= 431403582277812235 
-prefix= 3play
+prefix= 1play
 game= #help
 stayinchannel=true
 songinstatus=false
