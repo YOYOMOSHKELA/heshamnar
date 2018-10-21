@@ -1,4 +1,4 @@
-token=NTAxNDA4NjAyMDQ5NzQwODAy.Dq5gcw.NSZxse4H36_bFpopiGztvKwBvmM
+token=NTAxNDA4NjAyMDQ5NzQwODAy.Dq5hag.1_ydisaOHLsZV0G5a73LE4CLRxQ
 owner=431403582277812235
 prefix=1play
 game=lp bots
