@@ -1,6 +1,6 @@
 token=NTAxNDA4NjAyMDQ5NzQwODAy.Dq5gcw.NSZxse4H36_bFpopiGztvKwBvmM
 owner=431403582277812235
 prefix=1play
-game=1play
+game=lp bots
 stayinchannel=true
 songinstatus=false
