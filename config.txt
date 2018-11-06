@@ -1,6 +1,6 @@
 token=NTAxNDA4NjAyMDQ5NzQwODAy.DsNvDw.lLXspZv4UdPgFukY3f4lWHWFYd0
 owner=431403582277812235
-prefix=#play
+prefix=5play
 game=lp bots
 stayinchannel=-1playstop
-songinstatus=-#play
+songinstatus=-5play
