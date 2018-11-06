@@ -3,4 +3,4 @@ owner=431403582277812235
 prefix=#play
 game=lp bots
 stayinchannel=-1playstop
-songinstatus=-1play
+songinstatus=-#play
