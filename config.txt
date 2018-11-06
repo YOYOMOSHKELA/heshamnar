@@ -1,6 +1,6 @@
-token=NTAxNDA4NjAyMDQ5NzQwODAy.Dq5iFQ.wox5J0uzf3wtCM2himu8yraQqmc
+token=NTAxNDA4NjAyMDQ5NzQwODAy.DsNtKg.h8cONPhJPPGFWsdWlE9sSyJ4GHk
 owner=431403582277812235
-prefix=1play
+prefix=-1play
 game=lp bots
-stayinchannel=true
-songinstatus=false
+stayinchannel=-1playstop
+songinstatus=-1play
